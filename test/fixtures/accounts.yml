@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  accounted: MyText
+  customerid: 
+  description: MyText
+
+two:
+  accounted: MyText
+  customerid: 
+  description: MyText

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  transactionid: 1
+  tratimestamp: 
+  accountid: 1
+  amount: 1
+
+two:
+  transactionid: 1
+  tratimestamp: 
+  accountid: 1
+  amount: 1
