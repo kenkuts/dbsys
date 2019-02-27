@@ -1,0 +1,2 @@
+class Doorlog < ApplicationRecord
+end
